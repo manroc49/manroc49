@@ -1,22 +1,26 @@
 <h1>Hi, I'm Manuel!
-
+<h3>Infrastructure engineer demonstrating skills across network engineering (Layers 1-3) and identity management (Active Directory). All projects documented with Packet Tracer designs and Wireshark packet captures.</h3>
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
-- <b>Project N01: VLAN Segmentation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Project N02: 802.1Q Trunking & VTP</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Project N03: Spanning Tree (PVST+)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Project N04: EtherChannel (LACP)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Project N05: Static Routing</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Fundamentals: Layer 2 & Static Routing</b>
+  - [N01: VLAN Segmentation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N02: 802.1Q Trunking & VTP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N03: Spanning Tree (PVST+)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N04: EtherChannel (LACP)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N05: Static Routing](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Dynamic Routing</b>
+  - [N06: OSPF Single Area](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N07: OSPF Multi-Area](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N08: EIGRP Load Balancing](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N09: Route Redistribution](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N10: HSRP Gateway Redundancy](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Advanced Wan</b>
+  - [N11: BGP Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N12: GRE Tunnel + IPsec](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N13: QoS (CBWFQ, LLQ)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N14: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N01: VLAN Segmentation](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2>👨‍💻 Active Directory Projects Projects</h2>
 
@@ -39,6 +43,15 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+- ## How Hiring Managers Can Verify
+
+| Time | Action |
+|------|--------|
+| 30 sec | Open any `/screenshots/` folder |
+| 2 min | Open any `.pkt` file in Packet Tracer |
+| 5 min | Open any `.pcapng` in Wireshark |
+| 15 min | Re-run any PowerShell script in AWS |
 
 <h2> 🤳 Connect with me:</h2>
 
