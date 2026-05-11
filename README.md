@@ -1,20 +1,21 @@
 <h1>Hi, I'm Manuel!
 <h3>Infrastructure engineer demonstrating skills across network engineering (Layers 1-3) and identity management (Active Directory). All projects documented with Packet Tracer designs and Wireshark packet captures.</h3>
-<h2>👨‍💻 Network Engineering Projects:</h2>
 
-- <b>Fundamentals: Layer 2 & Static Routing</b>
+  <h2>👨‍💻 Network Engineering Projects:</h2>
+
+- <b>[Fundamentals: Layer 2 & Static Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
   - [N01: VLAN Segmentation](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N02: 802.1Q Trunking & VTP](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N03: Spanning Tree (PVST+)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N04: EtherChannel (LACP)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N05: Static Routing](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Dynamic Routing</b>
+- <b>[Dynamic Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
   - [N06: OSPF Single Area](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N07: OSPF Multi-Area](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N08: EIGRP Load Balancing](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N09: Route Redistribution](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N10: HSRP Gateway Redundancy](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Advanced Wan</b>
+- <b>[Advanced Wan](https://github.com/manroc49/network-engineering-portfolio)</b>
   - [N11: BGP Basics](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N12: GRE Tunnel + IPsec](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N13: QoS (CBWFQ, LLQ)](https://github.com/joshmadakor1/Algorithms-Practice)
