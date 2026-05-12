@@ -26,24 +26,24 @@
 <h2>👨‍💻 Active Directory Projects Projects</h2>
 
 - <b>[Core Infrastructure](https://github.com/manroc49/homelab-portfolio)</b>
-  - [N01: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice) 
-  - [N02: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N03: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice) 
-  - [N04: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N05: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N01: DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [N02: DC Promotion](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N03: OU Hierarchy](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [N04: Users Groups & Nesting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N05: Protocol Basics](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>[Security & Policy](https://github.com/manroc49/homelab-portfolio)</b>
-  - [N06: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N07: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N08: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N09: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N10: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N06: EC2 Client Domain Join](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N07: OU Delegation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N08: GPO Driving Map](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N09: Password & Lockout Policy](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N10: AD Recycle Bin](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>[Advanced Enterprise](https://github.com/manroc49/homelab-portfolio)</b>
-  - [N11: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N12: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N13: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N14: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N15: VRF Lite](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N11: PKI & LDAPs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N12: Fine Grained Password Policies(PSO)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N13: Multi-AZ Replication](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N14: AD FS Federation(SAML)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [N15: Authoritive Restore](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
