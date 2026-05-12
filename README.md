@@ -25,20 +25,20 @@
 
 <h2>👨‍💻 Active Directory Projects Projects</h2>
 
-- <b>Core Infrastructure</b>
+- <b>[Core Infrastructure](https://github.com/manroc49/homelab-portfolio)</b>
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Security & Policy</b>fff
+- <b>[Security & Policy](https://github.com/manroc49/homelab-portfolio)</b>
   -  [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   -  [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   -  [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   -  [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   -  [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   
-- <b>Advanced Enterprise</b>
+- <b>[Advanced Enterprise](https://github.com/manroc49/homelab-portfolio)</b>
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   - [DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
