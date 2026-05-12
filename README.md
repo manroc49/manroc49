@@ -26,9 +26,9 @@
 <h2>👨‍💻 Active Directory Projects Projects</h2>
 
 - <b>[Core Infrastructure](https://github.com/manroc49/homelab-portfolio)</b>
-  - [N01: DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [N01: DNS SRV Records](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N02: DC Promotion](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [N03: OU Hierarchy](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [N03: OU Hierarchy](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N04: Users Groups & Nesting](https://github.com/joshmadakor1/Algorithms-Practice)
   - [N05: Protocol Basics](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>[Security & Policy](https://github.com/manroc49/homelab-portfolio)</b>
