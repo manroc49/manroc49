@@ -10,7 +10,7 @@
   - [N04: EtherChannel (LACP)](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N04-etherchannel)
   - [N05: Static Routing](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N05-static-routing)
 - <b>[Dynamic Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
-  - [N06: OSPF Single Area](https://github.com/manroc49/network-engineering-portfolio)
+  - [N06: OSPF Single Area](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N06-ospf-single-area)
   - [N07: OSPF Multi-Area](https://github.com/manroc49/network-engineering-portfolio)
   - [N08: EIGRP Load Balancing](https://github.com/manroc49/network-engineering-portfolio)
   - [N09: Route Redistribution](https://github.com/manroc49/network-engineering-portfolio)
