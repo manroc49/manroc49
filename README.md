@@ -6,7 +6,7 @@
 - <b>[Fundamentals: Layer 2 & Static Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
   - [N01: VLAN Segmentation](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N01-vlans)
   - [N02: 802.1Q Trunking & VTP](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N02-trunking-vtp)
-  - [N03: Spanning Tree (PVST+)](https://github.com/manroc49/network-engineering-portfolio)
+  - [N03: Spanning Tree (PVST+)](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N03-spanning-tree)
   - [N04: EtherChannel (LACP)](https://github.com/manroc49/network-engineering-portfolio)
   - [N05: Static Routing](https://github.com/manroc49/network-engineering-portfolio)
 - <b>[Dynamic Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
