@@ -8,7 +8,7 @@
   - [N02: 802.1Q Trunking & VTP](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N02-trunking-vtp)
   - [N03: Spanning Tree (PVST+)](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N03-spanning-tree)
   - [N04: EtherChannel (LACP)](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N04-etherchannel)
-  - [N05: Static Routing](https://github.com/manroc49/network-engineering-portfolio)
+  - [N05: Static Routing](https://github.com/manroc49/network-engineering-portfolio/tree/main/T1-fundamentals/N05-static-routing)
 - <b>[Dynamic Routing](https://github.com/manroc49/network-engineering-portfolio)</b>
   - [N06: OSPF Single Area](https://github.com/manroc49/network-engineering-portfolio)
   - [N07: OSPF Multi-Area](https://github.com/manroc49/network-engineering-portfolio)
