@@ -23,7 +23,7 @@
   - [N01: VLAN Segmentation](https://github.com/manroc49/network-engineering-portfolio)
 
 
-<h2>👨‍💻 Active Directory Projects Projects</h2>
+<h2>👨‍💻 Active Directory AWS VPC Projects</h2>
 
 - <b>[Core Infrastructure](https://github.com/manroc49/homelab-portfolio)</b>
   - [N01: DNS SRV Records](https://github.com/manroc49/network-engineering-portfolio)
