@@ -14,7 +14,7 @@
   - [N07: OSPF Multi-Area](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N07-ospf-multi-area)
   - [N08: EIGRP Load Balancing](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N08-eigrp-load-balancing/)
   - [N09: Route Redistribution](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N09-route-redistribution)
-  - [N10: HSRP Gateway Redundancy](https://github.com/manroc49/network-engineering-portfolio)
+  - [N10: HSRP Gateway Redundancy](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N10-hsrp-gateway-redundancy)
 - <b>[Advanced Wan](https://github.com/manroc49/network-engineering-portfoli)</b>
   - [N11: BGP Basics](https://github.com/manroc49/network-engineering-portfolio)
   - [N12: GRE Tunnel + IPsec](https://github.com/manroc49/network-engineering-portfolio)
