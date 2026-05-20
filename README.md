@@ -20,7 +20,7 @@
   - [N12: GRE Tunnel + IPsec](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N12-gre-ipsec)
   - [N13: QoS (CBWFQ, LLQ)](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N13-qos)
   - [N14: VRF Lite](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N14-vrf-lite)
-  - [N15: SPAN Port & Wireshark](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N15)
+  - [N15: SPAN Port & Wireshark](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N15-span-port-wireshark)
 
 
 <h2>👨‍💻 Active Directory AWS VPC Projects</h2>
