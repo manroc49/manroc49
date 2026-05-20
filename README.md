@@ -16,7 +16,7 @@
   - [N09: Route Redistribution](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N09-route-redistribution)
   - [N10: HSRP Gateway Redundancy](https://github.com/manroc49/network-engineering-portfolio/tree/main/T2-dynamic-routing/N10-hsrp-gateway-redundancy)
 - <b>[Advanced Wan](https://github.com/manroc49/network-engineering-portfolio)</b>
-  - [N11: BGP Basics](https://github.com/manroc49/network-engineering-portfolio)
+  - [N11: BGP Basics](https://github.com/manroc49/network-engineering-portfolio/tree/main/T3-advanced-wan/N11-bgp-basics)
   - [N12: GRE Tunnel + IPsec](https://github.com/manroc49/network-engineering-portfolio)
   - [N13: QoS (CBWFQ, LLQ)](https://github.com/manroc49/network-engineering-portfolio)
   - [N14: VRF Lite](https://github.com/manroc49/network-engineering-portfolio)
