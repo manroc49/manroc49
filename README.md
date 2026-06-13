@@ -26,7 +26,7 @@
 <h2>👨‍💻 Active Directory AWS VPC Projects</h2>
 
 - <b>[Core Infrastructure](https://github.com/manroc49/homelab-portfolio)</b>
-  - [N01: DNS SRV Records](homelab-portfolio/T1-core-fundamentals/N01-dns-srv-records)
+  - [N01: DNS SRV Records](https://github.com/manroc49/homelab-portfolio/T1-core-fundamentals/N01-dns-srv-records)
   - [N02: DC Promotion](https://github.com/manroc49/network-engineering-portfolio)
   - [N03: OU Hierarchy](https://github.com/manroc49/network-engineering-portfolio)
   - [N04: Users Groups & Nesting](https://github.com/manroc49/network-engineering-portfolio)
